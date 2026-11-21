@@ -1,8 +1,8 @@
 # The Pocket Cloud Maker — NIMBUS-1
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
-[![competition](https://img.shields.io/badge/competition-the--catalogue--photo--of--an--2--20261121--0341-green)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
-[![entry](https://img.shields.io/badge/entry-v1-orange)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
+[![make.fun · the-catalogue-photo-of-an-2-20261121-0341](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
+[![rank](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/top234/the-catalogue-photo-of-an-2-20261121-entry/rank.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
+[![reward](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/top234/the-catalogue-photo-of-an-2-20261121-entry/reward.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
 
 Entry for [The Catalogue Photo of an Impossible Gadget](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341) on make.fun.
 
