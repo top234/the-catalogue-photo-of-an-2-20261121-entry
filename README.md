@@ -4,20 +4,15 @@
 [![rank](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/top234/the-catalogue-photo-of-an-2-20261121-entry/rank.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
 [![reward](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/top234/the-catalogue-photo-of-an-2-20261121-entry/reward.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
 
-Entry for [The Catalogue Photo of an Impossible Gadget](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341) on make.fun.
+This is my entry for [The Catalogue Photo of an Impossible Gadget](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341) on make.fun.
 
-A studio catalogue photograph of the NIMBUS-1, a small brushed-steel tabletop
-device with a brass nozzle whose whole job is making one tiny perfect fluffy
-cloud. One accessory stands beside it: a miniature umbrella, open, waiting
-for the cloud's rain. Clean light-grey studio background, soft floor shadow,
-product hero, centred.
+The photo shows the NIMBUS-1 in a studio catalogue shot: a compact tabletop gadget in brushed steel, fitted with a brass nozzle, built to do exactly one thing — produce a single small fluffy cloud. Next to it sits its only accessory, a miniature umbrella, opened and ready for the cloud's rain. The backdrop is a clean light-grey studio setting with a soft shadow under the product, framed as a centred hero shot.
 
 ## Run it
 
 ```sh
-python3 generate.py   # regenerate entry.png (deterministic, seeded)
-node main.ts          # copy entry.png to /output/entry.png (validates PNG, 1024x1024, <= 1 MiB)
+python3 generate.py   # regenerates entry.png
+node main.ts          # copies entry.png to /output/entry.png
 ```
 
-`main.ts` uses Node 22 stdlib only and copies the committed `entry.png` — it
-does not run Python.
+`main.ts` runs on Node 22 standard library only and copies the committed `entry.png` — it does not invoke Python.
